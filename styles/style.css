@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: main-font;
+    src: url(/fonts/mplus1p/MPLUS1p-Regular.ttf);
+}
+@font-face {
+    font-family: second-font;
+    src: url(fonts/pt-serif/PTSerif-Regular.ttf);
+}
+body{
+    font-family: main-font;
+}
